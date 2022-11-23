@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.9.13 on win32)" generated="20221110 15:02:53.136" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\pinky.farkade\.vscode\extensions\robocorp.robotframework-lsp-1.5.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<status status="PASS" starttime="20221110 15:02:53.229" endtime="20221110 15:04:20.703"/>
+</kw>
+<status status="PASS" starttime="20221110 15:02:53.229" endtime="20221110 15:04:20.703"/>
+</test>
+<status status="PASS" starttime="20221110 15:02:53.138" endtime="20221110 15:04:20.707"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
+ 15:03:28.770" level="FAIL">No keyword with name 'Log in' found. Did you mean:
+    BuiltIn.Log
+    BuiltIn.Log Many</msg>
+<status status="FAIL" starttime="20221110 15:03:28.770" endtime="20221110 15:03:28.770"/>
+</kw>
+<kw name="Download the Excel file">
+<status status="NOT RUN" starttime="20221110 15:03:28.781" endtime="20221110 15:03:28.781"/>
+</kw>
+<kw name="Fill the form using the data from the Excel file">
+<status status="NOT RUN" starttime="20221110 15:03:28.788" endtime="20221110 15:03:28.788"/>
+</kw>
+<status status="PASS" starttime="20221110 15:02:56.015" endtime="20221110 15:04:19.443"/>
+</kw>
+<status status="PASS" starttime="20221110 15:02:56.007" endtime="20221110 15:04:19.444"/>
+</test>
+<status status="PASS" starttime="20221110 15:02:55.928" endtime="20221110 15:04:19.447"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
